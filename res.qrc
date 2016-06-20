@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>Icon/adobe_version_cue_cs3_folder.png</file>
+        <file>Icon/document_save_as.png</file>
+        <file>Icon/edit_find_replace.png</file>
+        <file>Icon/emoticon.png</file>
+        <file>Icon/exit.png</file>
+        <file>Icon/find.png</file>
+        <file>Icon/folder_home.png</file>
+        <file>Icon/graphics (1).png</file>
+        <file>Icon/graphics.png</file>
+        <file>Icon/help.png</file>
+        <file>Icon/mainwindow.png</file>
+        <file>Icon/man_brown.png</file>
+        <file>Icon/new.png</file>
+        <file>Icon/open.png</file>
+        <file>Icon/personal.png</file>
+        <file>Icon/questionmark.png</file>
+        <file>Icon/redo.png</file>
+        <file>Icon/save.png</file>
+        <file>Icon/setting.png</file>
+        <file>Icon/text.png</file>
+        <file>Icon/undo.png</file>
+        <file>Icon/user.png</file>
+    </qresource>
+</RCC>

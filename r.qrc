@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>C:/Users/Dong mat lon/Desktop/Icon/pdf.png</file>
+        <file>C:/Users/Dong mat lon/Desktop/Icon/print.png</file>
+        <file>C:/Users/Dong mat lon/Desktop/Icon/font_bold.png</file>
+        <file>C:/Users/Dong mat lon/Desktop/Icon/text_italic.png</file>
+        <file>C:/Users/Dong mat lon/Desktop/Icon/text_under.png</file>
+    </qresource>
+</RCC>
